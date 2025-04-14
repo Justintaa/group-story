@@ -1,5 +1,7 @@
 # group-story
 
+
 This is a group project but its just me :D
 
-Resolved merge conflict.
+This project was created to practice Git and version control.
+
